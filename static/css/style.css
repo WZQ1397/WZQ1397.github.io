@@ -175,7 +175,7 @@ img:hover{
     margin: 0 auto;
 
     width: 1150px;
-    height: 1950px;
+    height: auto;
     background-color: white;
 
 }
